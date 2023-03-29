@@ -1,0 +1,13 @@
+{
+      "2023": "Marzo",
+      "10": [
+            {
+                  "Titulo": "Examen de fisica",
+                  "Descripcion": "temas:\n\tCaida Libre\n\tTiro Parabolico\n",
+                  "Hora de Aviso": "12",
+                  "Minuto de Aviso": "0",
+                  "Duracion de evento": "3",
+                  "Modo de recordatorio": "Whatsapp"
+            }
+      ]
+}
